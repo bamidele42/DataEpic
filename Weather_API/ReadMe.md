@@ -1,7 +1,3 @@
-Here's a professional rewrite of your README file:
-
----
-
 # **Weather Scraper API**
 
 ## **Overview**
